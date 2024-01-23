@@ -81,17 +81,16 @@ $f(x) = ax + b$
 $F = X . \theta$
 
 $$\begin{bmatrix}
-f(x^1) \\ f(x^2) \\ ... \\ f(x^m)
-\end{bmatrix}
-= 
-\begin{bmatrix}
-x^1 & 1\\ x^2 & 1 \\ ... & ... \\ x^m & 1
-\end{bmatrix}
-
-\begin{bmatrix}
-a \\ b
-\end{bmatrix}
-$$
+f(x^1) \\
+f(x^2) \\
+... \\
+f(x^m)\end{bmatrix}=\begin{bmatrix}
+x^1 & 1\\
+x^2 & 1 \\
+... & ... \\
+x^m & 1\end{bmatrix} \\
+\begin{bmatrix}a \\
+b\end{bmatrix}$$
 
 Variable count: 1
 X dimension = `m x (n + 1)`
